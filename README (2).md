@@ -145,5 +145,5 @@ Get-AzSecuritySecureScoreControl
 
 ---
 
-> Documentação mantida por [SeuNome/GitHub].  
+> Documentação mantida por @nicdux
 > Colabore, envie PRs, compartilhe automações reais!
