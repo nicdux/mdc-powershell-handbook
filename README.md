@@ -74,7 +74,8 @@ Cmdlet      Get-AzSecurityAssessment                    1.8.0      Az.Security
 
 ### Exemplo visual do comando rodando:
 
-![Saída do Get-Command -Module Az.Security](./images/az-security-get-command-example.png)
+<img width="1016" height="210" alt="image" src="https://github.com/user-attachments/assets/b94d4028-94b6-4193-a219-2ca8e4cf84dc" />
+
 
 ---
 
